@@ -117,8 +117,13 @@
               "devServerTarget": "SoftParking:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "SoftParking"
 }

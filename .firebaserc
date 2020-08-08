@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "softparking-a766b": {
+      "hosting": {
+        "SoftParking": [
+          "softparking-a766b"
+        ]
+      }
+    }
+  }
+}

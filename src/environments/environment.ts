@@ -3,7 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebaseConfig : {
+    apiKey: "AIzaSyDF-u-JE0i_JgnWXHLTEiJqDW9sxokZHy8",
+    authDomain: "softparking-a766b.firebaseapp.com",
+    databaseURL: "https://softparking-a766b.firebaseio.com",
+    projectId: "softparking-a766b",
+    storageBucket: "softparking-a766b.appspot.com",
+    messagingSenderId: "263986795523",
+    appId: "1:263986795523:web:db1a2e7acad2ec4b2daa36",
+    measurementId: "G-V17Z03H505"
+  }
 };
 
 /*
